@@ -1,6 +1,15 @@
-### SCSProject
-## Sandwich Case Study Project
+# SCSProject
+(Sandwich Case Study Project)
 
+***
+***
 
 ## ƒƒ“ƒo[
-# ‹ß“¡ ¸
+* ‹ß“¡ ¸
+* 
+* 
+* 
+* 
+* ‰¡ˆä
+* ˆîŠ_
+* —é–Ø
