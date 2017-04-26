@@ -1,27 +1,28 @@
 # =============== #
 # Unity generated #
 # =============== #
-[Tt]emp/
-[Oo]bj/
-[Bb]uild
-/[Ll]ibrary/
+Program/Project/SCSProject/[Tt]emp/
+Program/Project/SCSProject/[Oo]bj/
+Program/Project/SCSProject/[Bb]uild
+Program/Project/SCSProject/[Ll]ibrary/
 sysinfo.txt
 *.stackdump
+
  
 # ============================================= #
 # Visual Studio / MonoDevelop / Rider generated #
 # ============================================= #
 [Ee]xported[Oo]bj/
 .vs/
-/*.userprefs
-/*.csproj
-/*.pidb
-/*.suo
-/*.sln*
+Program/Project/SCSProject/*.userprefs
+Program/Project/SCSProject/*.csproj
+Program/Project/SCSProject/*.pidb
+Program/Project/SCSProject/*.suo
+Program/Project/SCSProject/*.sln*
 /*.user
 /*.unityproj
 /*.booproj
-/.idea*/
+Program/Project/SCSProject/.idea*/
  
 # ============ #
 # OS generated #
